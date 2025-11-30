@@ -2,7 +2,7 @@
 
 A comprehensive attendance tracking system built with React, TypeScript, and Tailwind CSS, fully meeting the evaluation criteria.
 
-## 📋 Features
+## Features
 
 This application implements **100%** of the features requested in the project PDF.
 
