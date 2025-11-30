@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Employee Attendance System",
+  "description": "A comprehensive attendance tracking system for employees and managers featuring dashboards, reporting, and calendar views.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
