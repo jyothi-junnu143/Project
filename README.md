@@ -75,4 +75,4 @@ PORT defines where your Node.js backend runs.
 
 🖼️ 4. Screenshots
 
-Below are descriptions of screens based on the project PDF (pages 4–5)
+Below are descriptions of screens based on the project (screenshot_project.pdf)
